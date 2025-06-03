@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "newFunction": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7078",
+      "launchBrowser": false
+    }
+  }
+}
